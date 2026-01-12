@@ -95,32 +95,32 @@ Possible enhancements for this project include:
 
 ## 📸 Screenshots
 
-### 📊 Dataset Overview
+### Sentiment vs. Star Ratings Plot
 <p align="center">
   <img src="assets/Screenshot 2026-01-12 175040.png" width="900">
 </p>
 
-### 🧹 Data Cleaning & Preprocessing
+### Positive / Neutral / Negative Breakdown
 <p align="center">
   <img src="assets/Screenshot 2026-01-12 175059.png" width="900">
 </p>
 
-### 🧠 Feature Extraction
+### Pairplot (VADER vs RoBERTa)
 <p align="center">
   <img src="assets/Screenshot 2026-01-12 175129.png" width="900">
 </p>
 
-### 🤖 Model Training & Evaluation
+### Star Rating Distribution
 <p align="center">
   <img src="assets/Screenshot 2026-01-12 175212.png" width="900">
 </p>
 
-### 📈 Sentiment Distribution & Results
+### Snippet of code for Model Outputs
 <p align="center">
   <img src="assets/Screenshot 2026-01-12 175304.png" width="900">
 </p>
 
-### 📋 Model Performance Summary
+### Snippet of code for Dataset Head
 <p align="center">
   <img src="assets/Screenshot 2026-01-12 175356.png" width="900">
 </p>
