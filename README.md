@@ -95,3 +95,34 @@ Possible enhancements for this project include:
 
 ## 📸 Screenshots
 
+### 📊 Dataset Overview
+<p align="center">
+  <img src="assets/Screenshot 2026-01-12 175040.png" width="900">
+</p>
+
+### 🧹 Data Cleaning & Preprocessing
+<p align="center">
+  <img src="assets/Screenshot 2026-01-12 175059.png" width="900">
+</p>
+
+### 🧠 Feature Extraction
+<p align="center">
+  <img src="assets/Screenshot 2026-01-12 175129.png" width="900">
+</p>
+
+### 🤖 Model Training & Evaluation
+<p align="center">
+  <img src="assets/Screenshot 2026-01-12 175212.png" width="900">
+</p>
+
+### 📈 Sentiment Distribution & Results
+<p align="center">
+  <img src="assets/Screenshot 2026-01-12 175304.png" width="900">
+</p>
+
+### 📋 Model Performance Summary
+<p align="center">
+  <img src="assets/Screenshot 2026-01-12 175356.png" width="900">
+</p>
+
+
