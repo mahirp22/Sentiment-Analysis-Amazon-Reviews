@@ -92,3 +92,6 @@ Possible enhancements for this project include:
 - Comparing multiple classification algorithms
 - Expanding the dataset for improved generalization
 - Deploying the model as a web application using Flask
+
+## 📸 Screenshots
+
