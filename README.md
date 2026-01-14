@@ -73,8 +73,8 @@ To run this project on your local machine:
 This project strengthened my understanding of both data analysis and natural language processing concepts.
 
 ### AI & Machine Learning
-- Applied machine learning and NLP techniques to build an AI system that learns sentiment patterns from text data.
-
+- Applied machine learning and NLP techniques to build an AI system that learns sentiment patterns from text data
+- Built an AI classifier model trained on textual features to predict sentiment categories
 
 ### 🧠 Text Preprocessing & NLP
 - Learned how raw text must be cleaned and normalized before analysis
